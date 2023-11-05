@@ -1,5 +1,4 @@
-# my-new-repository
-Welcome! 
+# Welcome! 
 
 1. 
 #!/bin/bash
