@@ -1,6 +1,5 @@
 # Welcome! 
 
-1. 
 #!/bin/bash
 
 my_var="yes"
