@@ -1,7 +1,7 @@
 # Welcome! 
 ![image](https://github.com/tristan-reveur/my-new-repository/assets/72709535/e9f272fa-408e-44c0-9259-cc74271f6605)
 
-#!/bin/bash
+1. #!/bin/bash
 
 my_var="yes"
 
